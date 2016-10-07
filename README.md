@@ -14,7 +14,7 @@ Supports the following methods:
 
 To run, just use:
 
-`php -f unobfuscate <obfuscated-php-file.php>`
+`php -f unobfuscate.php obfuscated-php-file.php`
 
 ## Extra Extra
 
